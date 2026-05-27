@@ -1,5 +1,5 @@
 #include <amxmodx>
-#include <zombie_plague_x/add_commas>
+#include <zombie_plague/add_commas>
 //#include <zombie_plague/zp_packs_system>
 
 #define PLUGIN  "[ZP] Give Packs Menu"
